@@ -1,0 +1,15 @@
+body {
+	font-family: var(--ff);
+	margin: 0;
+}
+
+
+.container {
+	max-width: calc(1110px + 40px);
+	padding: 0 20px;
+	margin-inline: auto;
+}
+
+div {
+	word-break: break-word;
+}
